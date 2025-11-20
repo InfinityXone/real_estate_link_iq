@@ -1,0 +1,6 @@
+{
+  "project": "real_estate_link_iq",
+  "version": "0.1.0",
+  "layout": "enterprise_distributed",
+  "components": ["frontend_linkiq","backend_linkiq","scraper_engine","ai_orchestrator","cron_jobs","sync_drive","contracts","infra"]
+}
